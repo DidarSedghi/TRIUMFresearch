@@ -51,7 +51,7 @@ Now we shall plot the figure.
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = r"C:\Users\dsedgh\Downloads\O22_emax4_data_from_eval.txt"
+data = r"C:\Users\dsedgh\Downloads\14th of february work\O22_emax4_data_from_eval.txt"
 excited_states = np.arange(1, 31)
 
 # Total sum of M_GT up till k-intermediate excited state.
