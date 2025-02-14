@@ -1,0 +1,36 @@
+
+ Energy levels
+
+    N    J prty N_Jp    T     E(MeV)  Ex(MeV)  log-file
+
+    1     1 +     1     2    -62.16550720    0.00000000  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    2     1 +     2     2    -60.61100966    1.55449754  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    3     1 +     3     2    -59.12019704    3.04531016  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    4     1 +     4     2    -57.57895447    4.58655273  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    5     1 +     5     2    -56.60772924    5.55777796  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    6     1 +     6     2    -55.51557312    6.64993408  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    7     1 +     7     2    -52.21323843    9.95226877  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    8     1 +     8     2    -51.41170022   10.75380698  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+    9     1 +     9     2    -49.32620848   12.83929872  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   10     1 +    10     2    -47.93631692   14.22919028  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   11     1 +    11     2    -45.75964620   16.40586100  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   12     1 +    12     2    -44.20640624   17.95910096  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   13     1 +    13    -1    -41.00293352   21.16257368  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   14     1 +    14    -1    -38.89583929   23.26966791  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   15     1 +    15    -1    -36.34224146   25.82326574  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   16     1 +    16    -1    -34.05774975   28.10775745  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   17     1 +    17    -1    -31.52989532   30.63561188  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   18     1 +    18    -1    -29.51386614   32.65164106  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   19     1 +    19    -1    -26.23634972   35.92915748  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   20     1 +    20    -1    -23.30134594   38.86416126  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   21     1 +    21    -1    -20.34178343   41.82372377  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   22     1 +    22    -1    -18.03535526   44.13015194  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   23     1 +    23    -1    -16.00491463   46.16059257  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   24     1 +    24    -1    -13.11835532   49.04715188  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   25     1 +    25     2    -11.30301518   50.86249202  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   26     1 +    26     2     -8.32204497   53.84346223  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   27     1 +    27     2     -7.38060603   54.78490117  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   28     1 +    28     2     -5.07659340   57.08891380  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   29     1 +    29     2     -2.62372041   59.54178679  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+   30     1 +    30     2      0.48660012   62.65210732  log_LSF30_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22_j2p.txt 
+

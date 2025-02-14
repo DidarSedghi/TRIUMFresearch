@@ -1,0 +1,7 @@
+
+ Energy levels
+
+    N    J prty N_Jp    T     E(MeV)  Ex(MeV)  log-file
+
+    1     0 +     1     1    -82.99933493    0.00000000  log_Ne22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e6_E16_s500_hw15_A22_j0p.txt 
+
