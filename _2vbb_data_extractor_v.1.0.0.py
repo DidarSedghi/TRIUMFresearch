@@ -42,8 +42,9 @@ def data_extractor(directory, column):
     #print(column_data)
     for j in range(len(column_data)):
         print(column_data[j])
-    return print(f"Data extracted successfully for column {column}.")
+    #return print(f"Data extracted successfully for column {column}.")
+    return column_data 
 
-
-path = r"C:\Users\Didar\Desktop\2vbb_research_folder\test_file_for_extractor.txt"
-data_extractor(path, 5)
+#path = r"C:\Users\dsedgh\Downloads\summary_F22_sd-shell_EM1.8_2.0_om1.0_magnus_O22_e4_E16_s500_hw15_A22.txt"
+path = r"C:\Users\dsedgh\Downloads\O22_emax4_data_from_eval.txt"
+data_extractor(path, 4)
